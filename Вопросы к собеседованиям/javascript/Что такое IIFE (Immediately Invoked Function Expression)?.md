@@ -1,6 +1,3 @@
-?
-
----
 
 ### Что такое IIFE (Immediately Invoked Function Expression)?
 

@@ -1,7 +1,3 @@
-Дополняю ответ про отличия Set и WeakSet с примерами на JavaScript, Vue, React и Nuxt:
-
----
-
 ### Основные отличия Set и WeakSet
 
 - **Типы значений:**
